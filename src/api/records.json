@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "description": "This is a coffee",
+    "price": 1.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Tea",
+    "description": "This is a tea",
+    "price": 2.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Coffee with milk",
+    "description": "This is a coffee with milk",
+    "price": 3.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Tea with milk",
+    "description": "This is a tea with milk",
+    "price": 4.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Coffee with milk and sugar",
+    "description": "This is a coffee with milk and sugar",
+    "price": 5.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Tea with milk and sugar",
+    "description": "This is a tea with milk and sugar",
+    "price": 6.99,
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+    "rating": 4.5,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+  }
+]
